@@ -1,4 +1,4 @@
-![profile](https://github.com/vina-y-kumar/Phonebook-using-ReactJs/assets/92167129/220ca30f-38c6-4c15-ba95-bfe789ce8b43)# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ![image](https://github.com/vina-y-kumar/Phonebook-using-ReactJs/assets/92167129/14f90ba7-5491-4056-8527-eadd859524b4)
